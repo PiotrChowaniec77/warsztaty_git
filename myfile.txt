@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 lorem ipsum
 =======
 aaaaaa
@@ -7,4 +7,4 @@ lorem aaassss
 <div>assas</div>
 <div>assda</div>
 <p>aass</p>
->>>>>>> mybranch
+
