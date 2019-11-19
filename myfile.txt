@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 <p>assa</p>
 <div>asda</div>
 <div class="aaa">assas</div>
 <div>asssas</div>
 <p>asssasa</p>
-=======
-aaaaaa
-lorem aaassss
 <p>sssssdda00</p>
 <div>assas</div>
 <div>assda</div>
 <p>aass</p>
->>>>>>> mybranch
