@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 lorem ipsum
+=======
+aaaaaa
+lorem aaassss
+<p>sssssdda00</p>
+<div>assas</div>
+<div>assda</div>
+<p>aass</p>
+>>>>>>> mybranch
